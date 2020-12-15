@@ -14,9 +14,6 @@ $ DEVELOPMENT=1 python manage.py runserver
 
 
 ## Api
-
-It is best to use the python `virtualenv` tool to build locally:
-
 ```sh
 Function api 
   http://127.0.0.1:8000/articlefun/
